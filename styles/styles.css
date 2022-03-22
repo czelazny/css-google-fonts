@@ -68,15 +68,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background: url("https://images.pexels.com/photos/6287054/pexels-photo-6287054.jpeg?") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/6287054/pexels-photo-6287054.jpeg") no-repeat fixed bottom;
 }
 
 .second-section-background {
-  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/1338393/pexels-photo-1338393.jpeg") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/2031774/pexels-photo-2031774.jpeg") no-repeat fixed bottom;
 }
 
 .with-background {
